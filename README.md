@@ -4,7 +4,8 @@
 Stock market prediction by using CNN-LSTM neural network. Using more features makes an improvement to the accuracy. Plot of predicted vs actual values on the last 30 days-.
 Best accuracy achieved is 96.4%
 
-## The final file is the cnn-lstm.ipynb file.
+## Assignment-1 - CNN-LSTM
+## Assignment-2 - ganstock
 
 ![output](https://github.com/parthgoel17/LSTM-CNN-SOC/assets/119148715/f12bc7d5-4495-4b99-bda8-c8b7c25edfd3)
 
